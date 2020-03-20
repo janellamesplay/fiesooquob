@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oxichaipho.psiaklika.pl/sitemap.xml
